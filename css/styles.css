@@ -1,0 +1,19 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.fish-type {
+  color: green;
+  text-size-adjust: 150%;
+  font-weight: bold;
+}
+
+.highlight {
+  color: purple;
+  font-size: 45px;
+  text-shadow: royalblue;
+}
